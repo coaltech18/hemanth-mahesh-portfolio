@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101112"/><stop offset="1" stop-color="#1f2030"/></linearGradient>
+  <linearGradient id="vio" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ff3e" stop-opacity="0.9"/><stop offset="1" stop-color="#a7a2ff" stop-opacity="0.85"/></linearGradient>
+</defs>
+<rect width="1600" height="1100" fill="url(#bg)"/>
+<g opacity="0.14" stroke="#ffffff" fill="none"><path d="M0 210H1600M0 450H1600M0 690H1600M0 930H1600"/><path d="M180 0V1100M500 0V1100M820 0V1100M1140 0V1100M1460 0V1100"/></g>
+<g transform="translate(160,180)">
+  <rect x="0" y="40" width="1120" height="640" rx="42" fill="#0b0c0c" stroke="#474a55"/>
+  <rect x="38" y="78" width="260" height="564" rx="30" fill="#f6f4ee"/>
+  <rect x="338" y="78" width="314" height="260" rx="30" fill="#13151a"/>
+  <rect x="684" y="78" width="396" height="156" rx="30" fill="#f6f4ee"/>
+  <rect x="684" y="264" width="396" height="378" rx="30" fill="#13151a"/>
+  <g transform="translate(72,126)">
+    <rect width="190" height="22" rx="11" fill="#161719"/>
+    <rect y="64" width="130" height="120" rx="24" fill="#d8ff3e"/>
+    <rect y="216" width="190" height="18" rx="9" fill="#a8a9ae" opacity="0.55"/>
+    <rect y="254" width="170" height="14" rx="7" fill="#a8a9ae" opacity="0.4"/>
+    <rect y="288" width="150" height="14" rx="7" fill="#a8a9ae" opacity="0.4"/>
+  </g>
+  <g transform="translate(388,120)" stroke="#d8ff3e" fill="none">
+    <path d="M36 152C100 40 240 54 274 140" stroke-width="4"/>
+    <circle cx="36" cy="152" r="12" fill="#d8ff3e" stroke="none"/>
+    <circle cx="274" cy="140" r="12" fill="#f6f4ee" stroke="none"/>
+    <circle cx="154" cy="76" r="12" fill="#a7a2ff" stroke="none"/>
+  </g>
+  <g transform="translate(724,118)">
+    <rect width="250" height="20" rx="10" fill="#10110f"/>
+    <rect y="44" width="314" height="18" rx="9" fill="#70756e" opacity="0.45"/>
+    <rect x="276" y="0" width="86" height="62" rx="18" fill="#d8ff3e"/>
+  </g>
+  <g transform="translate(728,312)">
+    <path d="M0 250 C120 120 240 320 360 120" stroke="url(#vio)" stroke-width="6" fill="none"/>
+    <circle cx="0" cy="250" r="14" fill="#d8ff3e"/><circle cx="120" cy="162" r="14" fill="#f6f4ee"/><circle cx="240" cy="214" r="14" fill="#a7a2ff"/><circle cx="360" cy="120" r="14" fill="#d8ff3e"/>
+  </g>
+</g>
+<text x="166" y="110" fill="#f7f4ec" font-family="Onest, Arial, sans-serif" font-size="72" font-weight="700">SALEZOT</text>
+<text x="166" y="1040" fill="#c9c7c0" font-family="IBM Plex Mono, monospace" font-size="38" letter-spacing="3">AI / SYSTEMS / PRODUCT OPERATIONS</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11110f"/><stop offset="1" stop-color="#1e1f19"/></linearGradient></defs>
+<rect width="1600" height="1100" fill="url(#bg)"/>
+<g transform="translate(800,540)" opacity="0.88">
+  <g stroke="#f6f3eb" fill="none" opacity="0.3">
+    <path d="M0-250L190-140L190 90L0 200L-190 90L-190-140Z" stroke-width="2"/>
+    <path d="M0-120L92-70L92 40L0 92L-92 40L-92-70Z" stroke-width="2"/>
+    <line x1="0" y1="-250" x2="0" y2="-120"/><line x1="190" y1="-140" x2="92" y2="-70"/><line x1="190" y1="90" x2="92" y2="40"/><line x1="0" y1="200" x2="0" y2="92"/><line x1="-190" y1="90" x2="-92" y2="40"/><line x1="-190" y1="-140" x2="-92" y2="-70"/>
+  </g>
+  <g fill="#d8ff3e"><circle cx="0" cy="-250" r="14"/><circle cx="190" cy="-140" r="14"/><circle cx="190" cy="90" r="14"/><circle cx="0" cy="200" r="14"/><circle cx="-190" cy="90" r="14"/><circle cx="-190" cy="-140" r="14"/></g>
+  <g fill="#f6f3eb"><circle cx="0" cy="-120" r="12"/><circle cx="92" cy="-70" r="12"/><circle cx="92" cy="40" r="12"/><circle cx="0" cy="92" r="12"/><circle cx="-92" cy="40" r="12"/><circle cx="-92" cy="-70" r="12"/></g>
+</g>
+<g opacity="0.12" stroke="#f6f3eb" fill="none"><circle cx="320" cy="240" r="180"/><circle cx="1260" cy="840" r="240"/></g>
+<text x="124" y="162" fill="#f6f3eb" font-family="Onest, Arial, sans-serif" font-size="74" font-weight="700">OPEN SOURCE / LAB</text>
+<text x="126" y="226" fill="#d8ff3e" font-family="IBM Plex Mono, monospace" font-size="28" letter-spacing="5">PUBLIC SYSTEMS · EXPERIMENTS · CONTRIBUTIONS</text>
+</svg>
